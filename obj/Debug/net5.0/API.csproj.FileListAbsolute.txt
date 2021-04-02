@@ -62,3 +62,4 @@ C:\Users\zouhe\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dl
 C:\Users\zouhe\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\zouhe\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\zouhe\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zouhe\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
